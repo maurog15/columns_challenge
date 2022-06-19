@@ -10,7 +10,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://maurog15.github.io/columns_challenge/)
 
 ### Conclusions
 I think it was a really good option to start with Frontendmentor challenges, and i'm looking forward to continue learning!
