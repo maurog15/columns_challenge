@@ -9,8 +9,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://maurog15.github.io/columns_challenge/)
+- Solution URL: [[Add solution URL here](https://www.frontendmentor.io/solutions/responsive-3column-preview-website-with-html-and-css-PLesA1u1eW)]([https://your-solution-url.com](https://www.frontendmentor.io/solutions/responsive-3column-preview-website-with-html-and-css-PLesA1u1eW))
+- Live Site URL: [[Add live site URL here](https://maurog15.github.io/columns_challenge/)](https://maurog15.github.io/columns_challenge/)
 
 ### Conclusions
 I think it was a really good option to start with Frontendmentor challenges, and i'm looking forward to continue learning!
