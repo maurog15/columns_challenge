@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600&family=Lexend+Deca:wght@300;500&display=swap');
+
+body {
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    font-family: 'Lexend Deca', sans-serif;
+    font-size: 15px;
+    font-weight: 300;
+    color: white;
+    letter-spacing: 1px;
+    line-height: 25px;
+}
+
+.flex-container {
+    display: flex;
+    align-items: center;
+}
+
+.left-container {
+    flex: 1;
+    background-color: hsl(31, 77%, 52%);
+    height: 420px;
+    width: 250px;
+    border-radius: 8px 0 0 8px;
+    padding: 40px;
+}
+
+.mid-container {
+    flex: 1;
+    background-color: hsl(184, 100%, 22%);
+    height: 420px;
+    width: 250px;
+    padding:40px;
+    justify-content: flex-start;
+    text-align: left;
+    align-items: flex-start;
+    align-content: flex-start;
+}
+
+.right-container {
+    flex: 1;
+    background-color: hsl(179, 100%, 13%);
+    height: 420px;
+    width: 250px;
+    border-radius: 0 8px 8px 0;
+    padding: 40px;
+}
+
+button {
+    background-color: white;
+    border-radius: 60px;
+    border: 2px solid white;
+    padding: 10px 28px;
+    cursor: pointer;
+    margin-top: 90px;
+    font-family: 'Lexend Deca', sans-serif;
+    line-height: 25px;
+    font-weight: 500;
+}
+
+.left-container button {
+    color: hsl(31, 77%, 52%);
+}
+
+.mid-container button {
+    color: hsl(184, 100%, 22%);
+}
+
+.right-container button {
+    color: hsl(179, 100%, 13%);
+}
+
+button:hover {
+    background-color: transparent;
+    color: white;
+    border: 2px solid white;
+}
+
+h1 {
+    font-family: 'Big Shoulders Display', cursive;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 36px;
+    margin-top: 40px;
+}
+
+
+.attribution {
+    position: absolute;
+    bottom: 40px;
+    color: black;
+}
+
+a {
+    text-decoration: none;
+    color: rgb(9, 9, 139);
+}

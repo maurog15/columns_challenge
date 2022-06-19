@@ -11,3 +11,6 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+### Conclusions
+I think it was a really good option to start with Frontendmentor challenges, and i'm looking forward to continue learning!
