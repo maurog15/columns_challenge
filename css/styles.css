@@ -1,6 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Display:wght@600&family=Lexend+Deca:wght@300;500&display=swap');
 
 body {
+    box-sizing: border-box;
+    overflow: auto;
     display: flex;
     height: 100vh;
     justify-content: center;
@@ -96,3 +98,35 @@ a {
     text-decoration: none;
     color: rgb(9, 9, 139);
 }
+
+@media only screen and (max-width: 844px) {
+    body {
+      display: flex;
+      width: 100%;
+      overflow: scroll;
+      flex-wrap: wrap;
+    }
+  
+    .flex-container {
+      padding: 50px 0;
+      flex-direction: column;
+    }
+  
+    .left-container {
+      border-radius: 7px 7px 0 0;
+    }
+  
+    .right-container {
+      border-radius: 0 0 7px 7px;
+    }
+  
+    p {
+      font-size: 0.77rem;
+    }
+  
+    .attribution {
+      position: relative;
+      width: auto;
+      padding-bottom: 10px;
+    }
+  }
